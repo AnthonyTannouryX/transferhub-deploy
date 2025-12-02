@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Select-Object Id,ProcessName,Path)",
+      "Bash(Format-Table)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
